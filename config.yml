@@ -1,0 +1,7 @@
+logging:
+  level: INFO
+  loggers:
+    com: DEBUG
+
+template: Hello, %s!
+defaultName: Stranger
